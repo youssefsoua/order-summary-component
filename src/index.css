@@ -6,7 +6,7 @@
 @layer base {
   body {
     font-family: "Red Hat Display", sans-serif;
-    background-image: url(./pattern-background-desktop.svg);
+    background-image: url(../pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
     font-size: 16px;

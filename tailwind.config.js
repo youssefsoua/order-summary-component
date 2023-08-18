@@ -4,13 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        paleBlue: "hsl(225, 100%, 94%)",
-        brightBlue: "hsl(245, 75%, 52%)",
-        veryPaleBlue: "hsl(225, 100%, 98%)",
-        desaturatedBlue: "hsl(224, 23%, 55%)",
-        darkBlue: "hsl(223, 47%, 23%)",
-        white: "#FFF",
-        black: "#000",
+        "pale-blue": "hsl(225, 100%, 94%)",
+        "bright-blue": "hsl(245, 75%, 52%)",
+        "very-pale-blue": "hsl(225, 100%, 98%)",
+        "desaturated-blue": "hsl(224, 23%, 55%)",
+        "dark-blue": "hsl(223, 47%, 23%)",
       },
     },
   },

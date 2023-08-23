@@ -18,5 +18,5 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Vite js](https://vitejs.dev/) - React framework
+- [Vite js](https://vitejs.dev/) - Build tool
 - [Tailwind](https://tailwindcss.com/) - For styles

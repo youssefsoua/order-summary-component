@@ -14,9 +14,8 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 ## Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
+- [React](https://reactjs.org/) - JS frontend library
 - [Vite js](https://vitejs.dev/) - Build tool
 - [Tailwind](https://tailwindcss.com/) - For styles

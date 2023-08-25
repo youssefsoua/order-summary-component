@@ -4,7 +4,7 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 
 ## Screenshot
 
-![](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Screenshots/purqu7hymmvz8qfa7xlc.jpg)
+![](./screenshot.png)
 
 ## Links
 
